@@ -1,3 +1,7 @@
+# Specifics for this fork
+[![Build Status](https://secure.travis-ci.org/lokal-profil/anon.png)](http://travis-ci.org/lokal-profil/anon)
+IP ranges come from [Creeper.se](http://www.gnuheter.com/creeper/ipblock)
+
 # anon
 
 [![Build Status](https://secure.travis-ci.org/edsu/anon.png)](http://travis-ci.org/edsu/anon)
