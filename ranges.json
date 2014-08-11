@@ -1,4 +1,8 @@
 {
+    "@metadata": {
+        "source": "http://www.gnuheter.com/creeper/ipblock",
+        "fetch date":"2014-08-01"
+    },
     "Allmänna Reklamationsnämnden": [
         ["195.17.245.40", "195.17.245.47"], 
         ["213.88.173.0", "213.88.173.15"]
