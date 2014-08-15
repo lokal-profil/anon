@@ -175,7 +175,7 @@ Here are the Wikipedias that it currently supports:
 * [Wikimedia Commons](https://co.wikipedia.org)
 
 If you would like to have another one added please add a ticket to the
-[wikichanges](https://github.com/edsu/wikichanges/issues?state=closed)
+[wikichanges](https://github.com/edsu/wikichanges/issues)
 issue tracker.
 
 ## Community
@@ -191,6 +191,7 @@ own by sending a pull request.
 * [@bclegedits](https://twitter.com/bclegedits)
 * [@beehive_edits](https://twitter.com/beehive_edits)
 * [@berlinEDUedits](https://twitter.com/berlinEDUedits)
+* [@brwikiedits](https://twitter.com/brwikiedits)
 * [@bundesedit](https://twitter.com/bundesedit)
 * [@ciaedits](https://twitter.com/ciaedits)
 * [@cmuedits](https://twitter.com/cmuedits)
@@ -224,6 +225,7 @@ own by sending a pull request.
 * [@oiledits](https://twitter.com/oiledits)
 * [@ONgovEdits](https://twitter.com/ONgovEdits)
 * [@OverheidEdits](https://twitter.com/OverheidEdits)
+* [@PakistanEdits] (https://twitter.com/PakistanEdits)
 * [@Parlamento_Wiki](https://twitter.com/Parlamento_Wiki)
 * [@parliamentedits](https://twitter.com/parliamentedits)
 * [@parlizaedits](https://twitter.com/parlizaedits)
