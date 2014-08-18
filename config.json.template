@@ -9,7 +9,16 @@
       "template": "Wikipedia artikeln {{page}} redigerades anonymt från {{name}} {{&url}}",
       "ranges": "ranges.json",
       "whitelist": {}
-    }
+    },
+    {
+      "consumer_key": "",
+      "consumer_secret": "",
+      "access_token": "",
+      "access_token_secret": "",
+      "template": "{{page}} Wikipedia article edited anonymously from {{name}} {{&url}}",
+      "ranges": "MediaCreeper.json",
+      "whitelist": {}
+    },
   ]
 }
 
