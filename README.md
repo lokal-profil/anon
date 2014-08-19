@@ -1,6 +1,11 @@
 # Specifics for this fork
 [![Build Status](https://secure.travis-ci.org/lokal-profil/anon.png)](http://travis-ci.org/lokal-profil/anon)
-IP ranges come from [Creeper.se](http://www.gnuheter.com/creeper/ipblock)
+
+IP ranges come from [Creeper.se](http://www.gnuheter.com/creeper/ipblock) 
+and [mediacreeper.com](http://mediacreeper.com/ipblocks)
+
+Until [edsu/anon/#115](https://github.com/edsu/anon/issues/115) is solved 
+the `@metadata` entry must be removed from the range files prior to running.
 
 # anon
 
