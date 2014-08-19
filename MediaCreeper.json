@@ -350,7 +350,7 @@
         ["194.239.169.160", "194.239.169.167"], 
         ["195.41.39.168", "195.41.39.175"]
     ], 
-    "[DK] Dagbladet B\u00f6rsen AS": [
+    "[DK] Dagbladet Börsen AS": [
         ["83.221.131.224", "83.221.131.231"], 
         ["193.47.186.0", "193.47.186.255"]
     ], 
@@ -380,7 +380,7 @@
         ["195.24.2.40", "195.24.2.47"], 
         ["195.24.10.160", "195.24.10.175"]
     ], 
-    "[DK] Helsing\u00f6r Dagblad AS": [
+    "[DK] Helsingör Dagblad AS": [
         ["77.243.43.0", "77.243.43.127"]
     ], 
     "[DK] Herlev Bladet": [
@@ -494,7 +494,7 @@
     "[FI] Egmont-Kustannus Oy Ab": [
         ["193.184.11.80", "193.184.11.95"]
     ], 
-    "[FI] F\u00f6rlags Ab Forum f\u00f6r ekonomi och teknik": [
+    "[FI] Förlags Ab Forum för ekonomi och teknik": [
         ["62.237.128.128", "62.237.128.159"]
     ], 
     "[FI] Hufvudstadsbladet Ab": [
@@ -528,13 +528,13 @@
     "[FI] Savon Sanomat": [
         ["212.149.160.8", "212.149.160.15"]
     ], 
-    "[FI] Schildts F\u00f6rlags Ab": [
+    "[FI] Schildts Förlags Ab": [
         ["212.226.80.144", "212.226.80.151"]
     ], 
     "[FI] The Associated Press": [
         ["193.184.69.108", "193.184.69.111"]
     ], 
-    "[FI] Tidningen \u00c5land": [
+    "[FI] Tidningen Åland": [
         ["194.110.179.36", "194.110.179.39"], 
         ["194.110.186.144", "194.110.186.151"]
     ], 
@@ -1068,7 +1068,7 @@
     "[NO] As Avishuset Dagbladet": [
         ["78.41.136.0", "78.41.143.255"]
     ], 
-    "[NO] Avisen V\u00e5rt Land AS": [
+    "[NO] Avisen Vårt Land AS": [
         ["77.88.98.64", "77.88.98.127"], 
         ["77.88.102.96", "77.88.102.111"], 
         ["80.203.151.132", "80.203.151.135"], 
@@ -1094,10 +1094,10 @@
     "[NO] Bladet Sunnhordaland": [
         ["82.134.7.96", "82.134.7.103"]
     ], 
-    "[NO] Bladet Troms\u00f8 AS": [
+    "[NO] Bladet Tromsø AS": [
         ["195.139.1.0", "195.139.1.31"]
     ], 
-    "[NO] Bladet Vester\u00e5len AS": [
+    "[NO] Bladet Vesterålen AS": [
         ["81.0.149.40", "81.0.149.47"], 
         ["195.204.127.248", "195.204.127.255"], 
         ["213.167.121.96", "213.167.121.103"], 
@@ -1134,7 +1134,7 @@
         ["109.68.88.192", "109.68.88.223"], 
         ["109.68.88.224", "109.68.88.255"]
     ], 
-    "[NO] Egmont Serief\u00f6rlag": [
+    "[NO] Egmont Serieförlag": [
         ["80.232.28.96", "80.232.28.111"]
     ], 
     "[NO] Elisabeth Odden Morgenbladet": [
@@ -1163,7 +1163,7 @@
     "[NO] Journalisten": [
         ["87.238.49.240", "87.238.49.247"]
     ], 
-    "[NO] J\u00e6rbladet": [
+    "[NO] Jærbladet": [
         ["81.166.38.96", "81.166.38.127"]
     ], 
     "[NO] Klassekampen AS": [
@@ -1193,7 +1193,7 @@
         ["160.67.0.0", "160.67.255.255"], 
         ["160.68.0.0", "160.68.255.255"]
     ], 
-    "[NO] Norsk Telegrambyr\u00e5 As": [
+    "[NO] Norsk Telegrambyrå As": [
         ["80.203.179.8", "80.203.179.11"], 
         ["193.69.124.0", "193.69.125.255"], 
         ["193.75.32.0", "193.75.33.255"]
@@ -1218,7 +1218,7 @@
         ["62.92.58.192", "62.92.58.207"], 
         ["137.47.0.0", "137.47.255.255"]
     ], 
-    "[NO] Sunnm\u00f8rsposten AS": [
+    "[NO] Sunnmørsposten AS": [
         ["213.184.195.192", "213.184.195.199"]
     ], 
     "[NO] TS-Avisen AS": [
@@ -1288,15 +1288,15 @@
     "[SE] A.C. Nielsen": [
         ["193.15.190.96", "193.15.190.111"]
     ], 
-    "[SE] AB L\u00e4nstidningen \u00d6stersund": [
+    "[SE] AB Länstidningen Östersund": [
         ["194.18.89.0", "194.18.89.255"], 
         ["213.115.1.128", "213.115.1.135"], 
         ["213.115.174.96", "213.115.174.127"]
     ], 
-    "[SE] AB V\u00e4stkusttidningar": [
+    "[SE] AB Västkusttidningar": [
         ["82.197.240.24", "82.197.240.31"]
     ], 
-    "[SE] AB \u00d6stg\u00f6ta Correspondenten": [
+    "[SE] AB Östgöta Correspondenten": [
         ["192.165.38.0", "192.165.38.255"], 
         ["193.234.168.0", "193.234.168.255"], 
         ["212.214.20.24", "212.214.20.31"]
@@ -1324,10 +1324,10 @@
     "[SE] Alekuriren AB": [
         ["212.209.61.184", "212.209.61.191"]
     ], 
-    "[SE] Alings\u00e5s Kuriren": [
+    "[SE] Alingsås Kuriren": [
         ["213.15.76.148", "213.15.76.151"]
     ], 
-    "[SE] Alings\u00e5s Tidning": [
+    "[SE] Alingsås Tidning": [
         ["84.19.131.48", "84.19.131.55"], 
         ["213.15.75.96", "213.15.75.103"]
     ], 
@@ -1351,7 +1351,7 @@
     "[SE] Barometern": [
         ["193.13.116.0", "193.13.119.255"]
     ], 
-    "[SE] Bazar F\u00f6rlag AB": [
+    "[SE] Bazar Förlag AB": [
         ["213.50.9.160", "213.50.9.175"]
     ], 
     "[SE] Berling Press AB": [
@@ -1360,16 +1360,16 @@
     "[SE] Bestseller Filmdistr Scandinavia AB": [
         ["62.20.55.0", "62.20.55.15"]
     ], 
-    "[SE] Bildbyr\u00e5n i H\u00e4ssleholm KB": [
+    "[SE] Bildbyrån i Hässleholm KB": [
         ["62.181.95.192", "62.181.95.255"]
     ], 
-    "[SE] Blekinge L\u00e4ns Tidning": [
+    "[SE] Blekinge Läns Tidning": [
         ["193.181.241.0", "193.181.241.255"]
     ], 
     "[SE] Blendow Group AB": [
         ["83.145.48.120", "83.145.48.127"]
     ], 
-    "[SE] Bohusl\u00e4ningen": [
+    "[SE] Bohusläningen": [
         ["62.80.200.0", "62.80.200.31"], 
         ["212.3.11.0", "212.3.11.255"]
     ], 
@@ -1392,19 +1392,19 @@
         ["195.58.125.160", "195.58.125.191"], 
         ["213.131.146.88", "213.131.146.95"]
     ], 
-    "[SE] Bonnierf\u00f6rlagen AB": [
+    "[SE] Bonnierförlagen AB": [
         ["194.68.4.0", "194.68.5.255"], 
         ["212.247.17.72", "212.247.17.79"]
     ], 
     "[SE] Bonus Presskopia": [
         ["194.236.14.16", "194.236.14.19"]
     ], 
-    "[SE] Bor\u00e5s Tidning": [
+    "[SE] Borås Tidning": [
         ["193.13.114.0", "193.13.114.255"], 
         ["193.15.84.64", "193.15.84.127"], 
         ["212.247.39.0", "212.247.39.127"]
     ], 
-    "[SE] Bulls Presstj\u00e4nst AB": [
+    "[SE] Bulls Presstjänst AB": [
         ["217.13.234.120", "217.13.234.127"]
     ], 
     "[SE] CDL PRESS AB": [
@@ -1416,13 +1416,13 @@
     "[SE] Cision Sverige AB": [
         ["195.149.155.0", "195.149.155.255"]
     ], 
-    "[SE] Cobra F\u00f6rlag AB": [
+    "[SE] Cobra Förlag AB": [
         ["195.67.127.32", "195.67.127.39"]
     ], 
     "[SE] Copyswede AB": [
         ["213.88.189.224", "213.88.189.231"]
     ], 
-    "[SE] DP Direkt Press Tidningsf\u00f6rlag AB": [
+    "[SE] DP Direkt Press Tidningsförlag AB": [
         ["88.131.14.112", "88.131.14.127"]
     ], 
     "[SE] Dagbladet Sundsvall": [
@@ -1457,7 +1457,7 @@
         ["194.68.7.0", "194.68.7.255"], 
         ["212.247.1.64", "212.247.1.127"]
     ], 
-    "[SE] Den nya v\u00e4lf\u00e4rden AB": [
+    "[SE] Den nya välfärden AB": [
         ["212.247.18.208", "212.247.18.215"]
     ], 
     "[SE] EMA Telstar AB": [
@@ -1470,11 +1470,11 @@
         ["213.88.172.112", "213.88.172.119"], 
         ["213.131.133.192", "213.131.133.192"]
     ], 
-    "[SE] Edithouse Film i G\u00f6teborg AB": [
+    "[SE] Edithouse Film i Göteborg AB": [
         ["88.131.47.160", "88.131.47.167"], 
         ["88.131.104.96", "88.131.104.127"]
     ], 
-    "[SE] Egmont K\u00e4rnan AB": [
+    "[SE] Egmont Kärnan AB": [
         ["62.109.45.192", "62.109.45.255"], 
         ["62.109.46.208", "62.109.46.211"], 
         ["62.127.101.8", "62.127.101.15"], 
@@ -1520,10 +1520,10 @@
     "[SE] Falukuriren": [
         ["193.13.136.0", "193.13.136.255"]
     ], 
-    "[SE] Fastighetsnytt F\u00f6rlags AB": [
+    "[SE] Fastighetsnytt Förlags AB": [
         ["195.67.88.248", "195.67.88.255"]
     ], 
-    "[SE] Fastighetsv\u00e4rlden Tidnings AB": [
+    "[SE] Fastighetsvärlden Tidnings AB": [
         ["213.204.189.112", "213.204.189.119"]
     ], 
     "[SE] Filmpoint Commication AB": [
@@ -1543,13 +1543,13 @@
         ["213.115.140.0", "213.115.140.63"], 
         ["213.115.140.192", "213.115.140.223"]
     ], 
-    "[SE] Frida F\u00f6rlag AB": [
+    "[SE] Frida Förlag AB": [
         ["213.136.55.232", "213.136.55.239"]
     ], 
-    "[SE] F\u00f6renade Landsortstidningar AB": [
+    "[SE] Förenade Landsortstidningar AB": [
         ["193.13.115.0", "193.13.115.255"]
     ], 
-    "[SE] F\u00f6rlaget Harlequin AB": [
+    "[SE] Förlaget Harlequin AB": [
         ["62.181.196.224", "62.181.196.239"]
     ], 
     "[SE] Gefle Dagblad": [
@@ -1563,7 +1563,7 @@
         ["217.75.99.192", "217.75.99.195"], 
         ["217.75.107.0", "217.75.107.255"]
     ], 
-    "[SE] G\u00f6teborgs-Posten": [
+    "[SE] Göteborgs-Posten": [
         ["193.14.195.0", "193.14.195.255"], 
         ["194.14.32.0", "194.14.32.255"], 
         ["194.14.33.0", "194.14.33.255"], 
@@ -1602,11 +1602,11 @@
     "[SE] Hudiksvalls Tidning": [
         ["193.15.38.0", "193.15.38.63"]
     ], 
-    "[SE] H\u00e4lsingetidningar": [
+    "[SE] Hälsingetidningar": [
         ["80.86.67.176", "80.86.67.191"], 
         ["81.94.79.64", "81.94.79.71"]
     ], 
-    "[SE] ICA F\u00f6rlaget AB": [
+    "[SE] ICA Förlaget AB": [
         ["62.13.68.0", "62.13.68.255"]
     ], 
     "[SE] IDG International Data Group Sweden": [
@@ -1620,7 +1620,7 @@
     "[SE] Infopaq Sverige": [
         ["80.169.183.208", "80.169.183.215"]
     ], 
-    "[SE] Ingenj\u00f6rsf\u00f6rlaget AB": [
+    "[SE] Ingenjörsförlaget AB": [
         ["82.99.13.128", "82.99.13.255"]
     ], 
     "[SE] Innerstadspress": [
@@ -1642,7 +1642,7 @@
         ["83.241.230.64", "83.241.230.71"], 
         ["213.115.230.0", "213.115.230.255"]
     ], 
-    "[SE] Kamerareportage Bildbyr\u00e5": [
+    "[SE] Kamerareportage Bildbyrå": [
         ["82.96.40.224", "82.96.40.255"]
     ], 
     "[SE] Kanal 5 AB": [
@@ -1661,10 +1661,10 @@
     "[SE] LRF Media AB": [
         ["193.15.16.0", "193.15.16.127"]
     ], 
-    "[SE] Liberala Nyhetsbyr\u00e5n AB": [
+    "[SE] Liberala Nyhetsbyrån AB": [
         ["193.14.139.0", "193.14.139.255"]
     ], 
-    "[SE] Litzon Press F\u00f6rlags AB": [
+    "[SE] Litzon Press Förlags AB": [
         ["62.20.7.192", "62.20.7.199"]
     ], 
     "[SE] Ljusdalsposten": [
@@ -1673,10 +1673,10 @@
     "[SE] Lokal Tidningen Mitt i Stockholm": [
         ["212.112.191.80", "212.112.191.95"]
     ], 
-    "[SE] Lokal-TV N\u00e4tverket i Sverige AB": [
+    "[SE] Lokal-TV Nätverket i Sverige AB": [
         ["194.17.9.128", "194.17.9.255"]
     ], 
-    "[SE] Lokaltidningar i V\u00e4sterg\u00f6tland AB": [
+    "[SE] Lokaltidningar i Västergötland AB": [
         ["62.20.11.64", "62.20.11.79"]
     ], 
     "[SE] Lokaltidningen AS Danmark": [
@@ -1685,7 +1685,7 @@
     "[SE] Lokaltidningen Mitt i Stockholm": [
         ["213.115.145.64", "213.115.145.79"]
     ], 
-    "[SE] L\u00e4nstidningen S\u00f6dert\u00e4lje": [
+    "[SE] Länstidningen Södertälje": [
         ["193.13.135.0", "193.13.135.255"]
     ], 
     "[SE] MTG Radio AB": [
@@ -1706,11 +1706,11 @@
     "[SE] Mastiff Media AB": [
         ["193.12.48.0", "193.12.48.255"]
     ], 
-    "[SE] Medstr\u00f6msf\u00f6rlagen AB": [
+    "[SE] Medströmsförlagen AB": [
         ["213.115.255.232", "213.115.255.239"], 
         ["213.242.170.16", "213.242.170.31"]
     ], 
-    "[SE] Medvik TV F\u00f6rlag AB": [
+    "[SE] Medvik TV Förlag AB": [
         ["193.13.254.0", "193.13.254.255"]
     ], 
     "[SE] Metro": [
@@ -1747,20 +1747,20 @@
     "[SE] Noble Entertainment": [
         ["83.241.228.128", "83.241.228.159"]
     ], 
-    "[SE] NordicPhotos - IMS Bildbyr\u00e5": [
+    "[SE] NordicPhotos - IMS Bildbyrå": [
         ["213.115.108.164", "213.115.108.167"]
     ], 
     "[SE] Nordisk TV Mission": [
         ["62.20.98.160", "62.20.98.191"]
     ], 
-    "[SE] Norra V\u00e4sterbotten Tidnings AB": [
+    "[SE] Norra Västerbotten Tidnings AB": [
         ["193.13.137.0", "193.13.137.255"], 
         ["213.199.105.80", "213.199.105.87"]
     ], 
     "[SE] Norrbottens Kuriren": [
         ["193.15.235.160", "193.15.235.175"]
     ], 
-    "[SE] Norrk\u00f6pings Tidningar AB": [
+    "[SE] Norrköpings Tidningar AB": [
         ["194.17.50.104", "194.17.50.111"], 
         ["194.236.104.0", "194.236.105.255"], 
         ["212.214.0.224", "212.214.0.239"], 
@@ -1768,7 +1768,7 @@
         ["212.214.91.0", "212.214.91.63"], 
         ["212.214.212.0", "212.214.214.255"]
     ], 
-    "[SE] Norrl\u00e4ndska Socialdemokraten": [
+    "[SE] Norrländska Socialdemokraten": [
         ["195.84.94.32", "195.84.94.63"]
     ], 
     "[SE] Norrtelje Tidning": [
@@ -1783,7 +1783,7 @@
         ["194.16.31.240", "194.16.31.247"], 
         ["194.16.31.248", "194.16.31.255"]
     ], 
-    "[SE] Nya W\u00e4rmlandstidningen": [
+    "[SE] Nya Wärmlandstidningen": [
         ["194.68.108.0", "194.68.108.255"]
     ], 
     "[SE] OTW Media": [
@@ -1794,13 +1794,13 @@
         ["195.17.227.128", "195.17.227.255"], 
         ["195.84.28.128", "195.84.28.255"]
     ], 
-    "[SE] Ortstidningar i V\u00e4st AB": [
+    "[SE] Ortstidningar i Väst AB": [
         ["212.247.59.112", "212.247.59.119"]
     ], 
-    "[SE] Pagina F\u00f6rlags AB": [
+    "[SE] Pagina Förlags AB": [
         ["81.216.22.160", "81.216.22.191"]
     ], 
-    "[SE] Piratf\u00f6rlaget AB": [
+    "[SE] Piratförlaget AB": [
         ["80.252.180.148", "80.252.180.151"]
     ], 
     "[SE] Playground Music Scandinavia AB": [
@@ -1810,7 +1810,7 @@
         ["193.235.72.0", "193.235.72.255"], 
         ["193.235.118.0", "193.235.118.255"]
     ], 
-    "[SE] Presst\u00f6dsn\u00e4mnden": [
+    "[SE] Presstödsnämnden": [
         ["195.198.27.4", "195.198.27.7"]
     ], 
     "[SE] Radio Active 103.9": [
@@ -1826,17 +1826,17 @@
     "[SE] Radio och TV-Verket": [
         ["212.181.86.32", "212.181.86.47"]
     ], 
-    "[SE] Radiotj\u00e4nst i Kiruna AB": [
+    "[SE] Radiotjänst i Kiruna AB": [
         ["212.181.121.160", "212.181.121.191"], 
         ["212.181.126.160", "212.181.126.167"]
     ], 
-    "[SE] Raster F\u00f6rlag": [
+    "[SE] Raster Förlag": [
         ["213.131.151.160", "213.131.151.191"]
     ], 
     "[SE] Readers Digest": [
         ["212.112.190.112", "212.112.190.119"]
     ], 
-    "[SE] Renck \u00c5kerlund Films AB": [
+    "[SE] Renck Åkerlund Films AB": [
         ["195.84.9.64", "195.84.9.127"]
     ], 
     "[SE] Reuters Svenska AB": [
@@ -1845,7 +1845,7 @@
     "[SE] SBS Radio AB": [
         ["83.241.206.0", "83.241.206.255"]
     ], 
-    "[SE] SCB Statistiska Centralbyr\u00e5n": [
+    "[SE] SCB Statistiska Centralbyrån": [
         ["62.181.240.120", "62.181.240.135"], 
         ["62.181.240.120", "62.181.240.127"], 
         ["62.181.240.128", "62.181.240.135"], 
@@ -1884,20 +1884,20 @@
     "[SE] Scanpix": [
         ["213.204.178.128", "213.204.178.159"]
     ], 
-    "[SE] Skaraborgs L\u00e4ns Allehanda": [
+    "[SE] Skaraborgs Läns Allehanda": [
         ["194.103.233.0", "194.103.233.255"]
     ], 
-    "[SE] Sk\u00e5nemedia AB": [
+    "[SE] Skånemedia AB": [
         ["62.119.133.64", "62.119.133.127"]
     ], 
-    "[SE] Sk\u00e5nska Dagbladet": [
+    "[SE] Skånska Dagbladet": [
         ["193.15.253.0", "193.15.253.15"], 
         ["193.15.255.112", "193.15.255.127"]
     ], 
     "[SE] Slitz Mediaproduktion AB": [
         ["62.181.210.128", "62.181.210.135"]
     ], 
-    "[SE] Sm\u00e5landsposten": [
+    "[SE] Smålandsposten": [
         ["193.13.122.0", "193.13.123.255"]
     ], 
     "[SE] Stampen AB - V-tab": [
@@ -1907,7 +1907,7 @@
     "[SE] Starbreeze": [
         ["213.132.100.0", "213.132.100.127"]
     ], 
-    "[SE] Statens Biografbyr\u00e5": [
+    "[SE] Statens Biografbyrå": [
         ["193.15.197.32", "193.15.197.47"]
     ], 
     "[SE] Strix Television AB": [
@@ -1930,7 +1930,7 @@
     "[SE] Svensk Handelstidning Justitia": [
         ["195.198.70.236", "195.198.70.239"]
     ], 
-    "[SE] Svensk Sj\u00f6farts Tidning SSTF AB": [
+    "[SE] Svensk Sjöfarts Tidning SSTF AB": [
         ["83.218.83.168", "83.218.83.175"]
     ], 
     "[SE] Svenska Aller AB": [
@@ -1945,13 +1945,13 @@
         ["193.10.144.0", "193.10.144.255"], 
         ["212.85.69.136", "212.85.69.143"]
     ], 
-    "[SE] Svenska Musikerf\u00f6rbundet": [
+    "[SE] Svenska Musikerförbundet": [
         ["194.18.255.144", "194.18.255.159"]
     ], 
-    "[SE] Svenska Polis Idrotts F\u00f6rlaget AB": [
+    "[SE] Svenska Polis Idrotts Förlaget AB": [
         ["212.247.56.64", "212.247.56.79"]
     ], 
-    "[SE] Svenskt N\u00e4ringsliv Service AB": [
+    "[SE] Svenskt Näringsliv Service AB": [
         ["62.20.117.0", "62.20.117.127"]
     ], 
     "[SE] Sveriges Finansnyheter AB": [
@@ -1988,7 +1988,7 @@
         ["193.235.142.0", "193.235.143.255"], 
         ["194.22.100.0", "194.22.100.255"]
     ], 
-    "[SE] S\u00f6dermanlands Nyheter": [
+    "[SE] Södermanlands Nyheter": [
         ["193.13.124.0", "193.13.127.255"]
     ], 
     "[SE] TNS Gallup AB": [
@@ -2022,10 +2022,10 @@
     "[SE] Tidningar i Finnveden AB": [
         ["212.37.99.120", "212.37.99.127"]
     ], 
-    "[SE] Tidningarnas Telegrambyr\u00e5": [
+    "[SE] Tidningarnas Telegrambyrå": [
         ["193.183.174.0", "193.183.180.255"]
     ], 
-    "[SE] Tidningen AB Norra Sk\u00e5ne": [
+    "[SE] Tidningen AB Norra Skåne": [
         ["193.15.41.0", "193.15.41.255"]
     ], 
     "[SE] Tidningen Dagens Forskning AB": [
@@ -2043,18 +2043,18 @@
     "[SE] Tidningen Vi Tippa AB": [
         ["83.241.145.64", "83.241.145.95"]
     ], 
-    "[SE] Tidningen \u00c5ngermanland": [
+    "[SE] Tidningen Ångermanland": [
         ["195.66.46.80", "195.66.46.95"], 
         ["195.66.52.24", "195.66.52.31"]
     ], 
-    "[SE] Tidningen \u00d6stra Sm\u00e5land AB": [
+    "[SE] Tidningen Östra Småland AB": [
         ["194.68.117.0", "194.68.117.255"], 
         ["194.236.76.0", "194.236.76.255"]
     ], 
     "[SE] Tidnings AB Allehanda Syd": [
         ["193.15.254.224", "193.15.254.255"]
     ], 
-    "[SE] Tidnings AB Fastighetsv\u00e4rlden": [
+    "[SE] Tidnings AB Fastighetsvärlden": [
         ["213.15.232.88", "213.15.232.95"]
     ], 
     "[SE] Tidnings AB Nya Dagen": [
@@ -2079,7 +2079,7 @@
         ["213.115.117.0", "213.115.117.3"], 
         ["213.115.205.208", "213.115.205.223"]
     ], 
-    "[SE] Tv\u00e5stads Tidnings AB": [
+    "[SE] Tvåstads Tidnings AB": [
         ["192.71.98.0", "192.71.99.255"]
     ], 
     "[SE] UNT Uppsala Nya Tidning": [
@@ -2095,7 +2095,7 @@
     "[SE] United Stage Live AB": [
         ["212.162.184.216", "212.162.184.223"]
     ], 
-    "[SE] Vestmanlands L\u00e4ns Tidning": [
+    "[SE] Vestmanlands Läns Tidning": [
         ["194.68.64.0", "194.68.69.255"]
     ], 
     "[SE] Viasat MTG New Media": [
@@ -2105,24 +2105,24 @@
         ["193.45.212.0", "193.45.212.63"], 
         ["195.67.93.0", "195.67.93.127"]
     ], 
-    "[SE] V\u00e4rmlands Folkblad": [
+    "[SE] Värmlands Folkblad": [
         ["62.20.70.144", "62.20.70.151"], 
         ["62.20.70.152", "62.20.70.159"], 
         ["62.20.70.160", "62.20.70.167"]
     ], 
-    "[SE] V\u00e4rnamo Nyheter": [
+    "[SE] Värnamo Nyheter": [
         ["192.165.146.0", "192.165.146.255"]
     ], 
-    "[SE] V\u00e4sterbottens Kuriren": [
+    "[SE] Västerbottens Kuriren": [
         ["193.180.1.0", "193.180.3.255"]
     ], 
-    "[SE] V\u00e4ster\u00e5s Tidning AB": [
+    "[SE] Västerås Tidning AB": [
         ["195.84.132.128", "195.84.132.159"]
     ], 
-    "[SE] V\u00e4stg\u00f6ta Tidningar AB": [
+    "[SE] Västgöta Tidningar AB": [
         ["193.15.251.96", "193.15.251.111"]
     ], 
-    "[SE] V\u00e5rt Nya F\u00f6rlag AB": [
+    "[SE] Vårt Nya Förlag AB": [
         ["81.216.59.152", "81.216.59.159"]
     ], 
     "[SE] Warner Music Sweden AB": [
@@ -2134,11 +2134,11 @@
     "[SE] World TeleVision Sweden AB": [
         ["212.112.179.64", "212.112.179.95"]
     ], 
-    "[SE] \u00d6rnskoldsviks Allehanda": [
+    "[SE] Örnskoldsviks Allehanda": [
         ["194.103.60.0", "194.103.60.255"], 
         ["212.247.232.192", "212.247.232.223"]
     ], 
-    "[SE] \u00d6stersunds Posten AB": [
+    "[SE] Östersunds Posten AB": [
         ["195.84.180.0", "195.84.180.63"], 
         ["212.247.23.64", "212.247.23.127"], 
         ["213.134.101.64", "213.134.101.127"]
