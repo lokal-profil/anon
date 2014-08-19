@@ -8,6 +8,7 @@
       "access_token_secret": "",
       "template": "Wikipedia artikeln {{page}} redigerades anonymt från {{name}} {{&url}}",
       "ranges": "Creeper.json",
+      "throttle": true,
       "whitelist": {}
     },
     {
@@ -17,6 +18,7 @@
       "access_token_secret": "",
       "template": "{{page}} Wikipedia article edited anonymously from {{name}} {{&url}}",
       "ranges": "MediaCreeper.json",
+      "throttle": true,
       "whitelist": {}
     }
   ]
