@@ -51,6 +51,7 @@ getConfig = (path) ->
     for account in config.accounts
       if typeof account.ranges == 'string'
         account.ranges = loadJson account.ranges
+        delete account.ranges['@metadata']
   console.log "loaded config from", path
   config
 
