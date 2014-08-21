@@ -6,7 +6,7 @@
       "consumer_secret": "",
       "access_token": "",
       "access_token_secret": "",
-      "template": "Wikipediaartikeln {{page}} redigerades anonymt från {{name}} {{&url}}",
+      "template": "Wikipediaartikeln {{{page}}} redigerades anonymt från {{{name}}} {{&url}}",
       "ranges": "Creeper.json",
       "throttle": true,
       "namespaces": ["Article"]
@@ -16,7 +16,7 @@
       "consumer_secret": "",
       "access_token": "",
       "access_token_secret": "",
-      "template": "{{page}} Wikipedia article edited anonymously from {{name}} {{&url}}",
+      "template": "{{{page}}} Wikipedia article edited anonymously from {{{name}}} {{&url}}",
       "ranges": "MediaCreeper.json",
       "throttle": true
     }
