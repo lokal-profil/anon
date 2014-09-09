@@ -20,8 +20,6 @@
     "jsonlint": "latest"
   },
   "scripts": {
-    "test": "mocha --colors --reporter spec --compilers coffee:coffee-script/register test.coffee",
-    "cdelint": "coffeelint *.coffee",
-    "jdelint": "jsonlint *.json"
+    "test": "mocha --colors --reporter spec --compilers coffee:coffee-script/register test.coffee"
   }
 }

@@ -3,3 +3,7 @@ branches:
   only:
     - master
     - linttest
+script:
+  - "npm test"
+  - "coffeelint *.coffee"
+  - "jsonlint *.json"
