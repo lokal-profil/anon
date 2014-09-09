@@ -101,7 +101,7 @@ inspect = (account, edit) ->
         and account.whitelist[edit.wikipedia][edit.page]
       status = getStatus edit, edit.user, account.template
       tweet account, status, edit
-    else if account.namespaces and edit.namespace not in account.namespaces then
+    else if account.namespaces? and (edit.namespace not in account.namespaces) then
     else if account.ranges and edit.anonymous
       for name, ranges of account.ranges
         if isIpInAnyRange edit.user, ranges
