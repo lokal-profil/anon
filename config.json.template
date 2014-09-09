@@ -9,7 +9,7 @@
       "template": "Wikipediaartikeln {{{page}}} redigerades anonymt från {{{name}}} {{&url}}",
       "ranges": "Creeper.json",
       "throttle": true,
-      "namespaces": ["Article"]
+      "namespaces": ["article", "file", "media", "main"]
     },
     {
       "consumer_key": "",
@@ -18,7 +18,8 @@
       "access_token_secret": "",
       "template": "{{{page}}} Wikipedia article edited anonymously from {{{name}}} {{&url}}",
       "ranges": "MediaCreeper.json",
-      "throttle": true
+      "throttle": true,
+      "namespaces": ["article", "file", "media", "main"]
     }
   ]
 }
