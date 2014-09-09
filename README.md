@@ -34,7 +34,6 @@ app you create has read/write permission so it can tweet)
 1. add IP ranges/names to `config.json`
 1. modify status template if desired
 1. `./anon.coffee` (you may want to run this in a screen or tmux session, or on a cloud service like Heroku (see below))
-1. have some :coffee: and wait
 
 ### IP Ranges
 
@@ -189,6 +188,7 @@ Below is a list of known anon instances. Please feel free to add, in an alphabet
 own by sending a pull request.
 
 * [@2dekameredits](https://twitter.com/2dekameredits)
+* [@5thEstateWiki](https://twitter.com/5thEstateWiki)
 * [@academyedits](https://twitter.com/academyedits)
 * [@AUSgovEdits](https://twitter.com/AUSgovEdits)
 * [@AussieParlEdits](https://twitter.com/AussieParlEdits)
@@ -196,6 +196,8 @@ own by sending a pull request.
 * [@bclegedits](https://twitter.com/bclegedits)
 * [@beehive_edits](https://twitter.com/beehive_edits)
 * [@berlinEDUedits](https://twitter.com/berlinEDUedits)
+* [@BotDetectorCamb](https://twitter.com/BotDetectorCamb)
+* [@BrockWikiEdits](https://twitter.com/BrockWikiEdits)
 * [@brwikiedits](https://twitter.com/brwikiedits)
 * [@bundesedit](https://twitter.com/bundesedit)
 * [@ciaedits](https://twitter.com/ciaedits)
@@ -220,7 +222,9 @@ own by sending a pull request.
 * [@kameredits](https://twitter.com/kameredits)
 * [@LAGovEdits](https://twitter.com/lagovedits)
 * [@LATechEdits](https://twitter.com/LATechEdits)
+* [@lc_edits](https://twitter.com/lc_edits)
 * [@LRSwikiedits](https://twitter.com/LRSwikiedits)
+* [@michigan_edits](https://twitter.com/michigan_edits)
 * [@MITedits](https://twitter.com/MITedits)
 * [@monsantoedits](https://twitter.com/monsantoedits)
 * [@NATOedits](https://twitter.com/NATOedits)
@@ -230,7 +234,7 @@ own by sending a pull request.
 * [@oiledits](https://twitter.com/oiledits)
 * [@ONgovEdits](https://twitter.com/ONgovEdits)
 * [@OverheidEdits](https://twitter.com/OverheidEdits)
-* [@PakistanEdits] (https://twitter.com/PakistanEdits)
+* [@PakistanEdits](https://twitter.com/PakistanEdits)
 * [@Parlamento_Wiki](https://twitter.com/Parlamento_Wiki)
 * [@parliamentedits](https://twitter.com/parliamentedits)
 * [@parlizaedits](https://twitter.com/parlizaedits)
@@ -251,8 +255,11 @@ own by sending a pull request.
 * [@UaGoveEdits_ru](https://twitter.com/UaGovEdits_ru)
 * [@un_edits](https://twitter.com/un_edits)
 * [@valleyedits](https://twitter.com/valleyedits)
+* [@WhitehallEdits](https://twitter.com/WhitehallEdits)
+* [@WikiCreeperEdit](https://twitter.com/WikiCreeperEdit)
 * [@wikiAssemblee](https://twitter.com/wikiAssemblee)
 * [@wikistorting](https://twitter.com/wikistorting)
+* [@zagovedits](https://twitter.com/zagovedits)
 
 ## License:
 
