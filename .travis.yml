@@ -5,5 +5,5 @@ branches:
     - linttest
 script:
   - "npm test"
-  - "coffeelint *.coffee"
-  - "jsonlint *.json"
+  - "coffeelint anon.coffee"
+  - "jsonlint -q *.json"
