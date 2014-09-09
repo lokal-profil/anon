@@ -17,7 +17,7 @@
     "mocha": "latest",
     "chai": "latest",
     "coffeelint": "latest",
-    "jsonlint": "latest",
+    "jsonlint": "latest"
   },
   "scripts": {
     "test": "mocha --colors --reporter spec --compilers coffee:coffee-script/register test.coffee",
