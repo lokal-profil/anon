@@ -42,7 +42,7 @@ def run(inFilename, outFilename, ccPrefix,
         f.close()
 
     # load csv
-    f = codecs.open(inFilename, 'r', 'ISO-8859-1')
+    f = codecs.open(inFilename, 'r', 'utf-8')
     lines = f.read().split('\n')
     f.close()
     data = {}
