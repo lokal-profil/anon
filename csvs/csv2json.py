@@ -82,3 +82,8 @@ def run(inFilename, outFilename, ccPrefix,
     txt = txt.replace(u', \n        [', u',\n        [')
     f.write(txt)
     f.close()
+
+
+if __name__ == '__main__':
+    creeper()
+    mediaCreeper()
